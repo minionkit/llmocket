@@ -1,6 +1,7 @@
 # LLMocket
 > Plugs into any LLM API socket
-Release Data: TBD
+
+**Release Date**: TBD
 
 ## Universal adapter for LLM APIs
 LLMocket is a cross-platform SDK that provides a unified interface for any LLM provider through a single, consistent API. Like a universal travel adapter that works in any country, LLMocket lets you plug your code into OpenAI, Anthropic, Cohere, or any other LLM service without rewiring your application.
